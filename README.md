@@ -63,7 +63,10 @@ This is a React-based web application that simulates an Online Library System. U
     Clone the repository:
 
 git clone https://github.com/Prajwal1412/Library_System
-cd online-library-system
+
+   
+
+cd Library_System
 
     Install dependencies:
 
@@ -71,7 +74,7 @@ npm install
 
     Start the development server:
 
-npm start
+npm run dev
 
     Visit http://localhost:3000 to use the app.
 
